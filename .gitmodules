@@ -76,3 +76,21 @@ url=https://github.com/webrtc-uwp/googlemock.git
 [submodule "webrtc/xplatform/gflags-build"]
 	path = webrtc/xplatform/gflags-build
 	url = https://github.com/webrtc-uwp/gflags-build.git
+[submodule "webrtc/xplatform/chromium/base"]
+	path = webrtc/xplatform/chromium/base
+	url = https://github.com/webrtc-uwp/chromium-base.git
+[submodule "webrtc/xplatform/chromium/build"]
+	path = webrtc/xplatform/chromium/build
+	url = https://github.com/webrtc-uwp/chromium-build.git
+[submodule "webrtc/xplatform/chromium/testing"]
+	path = webrtc/xplatform/chromium/testing
+	url = https://github.com/webrtc-uwp/chromium-testing
+[submodule "webrtc/xplatform/chromium/third_party"]
+	path = webrtc/xplatform/chromium/third_party
+	url = https://github.com/webrtc-uwp/chromium-third_party
+[submodule "webrtc/xplatform/chromium/tools"]
+	path = webrtc/xplatform/chromium/tools
+	url = https://github.com/webrtc-uwp/chromium-tools.git
+[submodule "webrtc/apple"]
+	path = webrtc/apple
+	url = https://github.com/webrtc-uwp/webrtc-apple.git
